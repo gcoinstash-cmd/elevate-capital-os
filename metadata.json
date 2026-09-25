@@ -1,0 +1,6 @@
+{
+  "name": "ELEVATE Capital OS",
+  "description": "High-ticket financial workspace and investor pipeline for founders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
